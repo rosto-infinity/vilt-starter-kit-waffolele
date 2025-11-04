@@ -1,6 +1,3 @@
-Voici un exemple de README.md pour votre starter kit VILT (Vue, Inertia, Laravel, Tailwind) :
-
-
 # VILT Starter Kit Waffolele
 
 ## Description
