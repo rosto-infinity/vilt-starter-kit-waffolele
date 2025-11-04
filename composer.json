@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/vilt_starter_kit_waffolele",
+    "name":  "rosto-infinity/vilt-starter-kit-waffolele",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": [

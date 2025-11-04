@@ -12,7 +12,7 @@ Un starter kit complet pour le développement d'applications web modernes utilis
 ## Installation
 
 ```bash
-laravel new votrenomprojet --using=vilt-starter-kit-waffolele
+laravel new votrenomprojet --using=rosto-infinity/vilt-starter-kit-waffolele
 ```
 
 ### Installation des dépendances PHP
