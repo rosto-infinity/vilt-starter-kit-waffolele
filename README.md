@@ -1,6 +1,6 @@
 Voici un exemple de README.md pour votre starter kit VILT (Vue, Inertia, Laravel, Tailwind) :
 
-```markdown
+
 # VILT Starter Kit Waffolele
 
 ## Description
@@ -119,7 +119,7 @@ Distribué sous la licence MIT.
 WAFFO LELE ROSTAND - [Devinsto](https://devinsto.com/)
 
 
-```
+
 
 Ce README.md offre :
 - Une vue d'ensemble du projet
