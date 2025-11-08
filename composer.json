@@ -1,5 +1,4 @@
-{
-    "$schema": "https://getcomposer.org/schema.json",
+{  
     "name":  "rosto-infinity/vilt-starter-kit-waffolele",
     "description": "Starter Kit Laravel 12 + Vue 3 + Inertia + Tailwind, prêt pour Fortify, Wayfinder, Pest et CI/CD.",
     "type": "project",
